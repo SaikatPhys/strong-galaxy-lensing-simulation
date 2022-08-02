@@ -3,9 +3,10 @@
 Python-based code to simulate mock strong lensed galaxies. 
 
 
+
 **Notes:**
 
-The codes here (and their subsequent variations) are used to simulate strong lens galaxies in the following papers:
+The codes in this repository (and their subsequent variations) are used to simulate strong lens galaxies in the following papers:
 
 1. [New high-quality strong lens candidates with deep learning in the Kilo Degree Survey](https://iopscience.iop.org/article/10.3847/1538-4357/ab9dfa)
 
