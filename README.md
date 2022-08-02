@@ -1,6 +1,9 @@
 # Strong-Galaxy-Lensing-Simulation
+
 Python-based code to simulate mock strong lensed galaxies. 
 
+
+**Notes:**
 
 The codes here (and their subsequent variations) are used to simulate strong lens galaxies in the following papers:
 
